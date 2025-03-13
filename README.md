@@ -14,6 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DewmiS&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DewmiS&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Profile Views](https://komarev.com/ghpvc/?username=DewmiS&label=Profile%20Views&color=blue&style=flat)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
