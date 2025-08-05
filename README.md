@@ -1,5 +1,4 @@
-# 💫 About Me:<br>
-## Hi 👋, I'm Dewmi Samadhi<br>
+# Hi 👋, I'm Dewmi Samadhi<br>
 ### Computer Science undergraduate in Sri Lanka. Passionate about frontend and backend development.<br>
 🔭 I’m currently working on full stack web development<br><!--👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact-->
 
