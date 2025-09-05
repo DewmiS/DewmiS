@@ -39,7 +39,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/dewmi-samadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmisamadhi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dewmi-samadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dewmisamadhi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29597092/dewmi-samadhi-pathiranage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/19KCN39SRZ/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dewmi Samadhi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dewmi__samadhi?igsh=MWNvejR3OTNpc3BvZQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewmi__samadhi" height="30" width="40" /></a>
