@@ -45,7 +45,7 @@
 <a href="https://www.instagram.com/dewmi__samadhi?igsh=MWNvejR3OTNpc3BvZQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dewmi__samadhi" height="30" width="40" /></a>
 </p>
 <br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DewmiS.DewmiS&left_text=visitors&color=blue&badge_color=grey)
+<img src="https://komarev.com/ghpvc/?username=DewmiS&label=Profile%20views&badge_color=FF00FF&color=FF00FF&style=flat" alt="DewmiS" /> </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
