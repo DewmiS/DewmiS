@@ -91,7 +91,7 @@
  </div>
  <br><br>-->
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
@@ -103,9 +103,8 @@
 </div>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DewmiS&layout=compact&langs_count=6&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dewmis&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+</div> -->
 
 <br><br>
 
